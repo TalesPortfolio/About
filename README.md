@@ -9,7 +9,7 @@ About me @TALES LIMA
 -My database skill: Oracle Database 19c, MongoDB, Mysql,
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalesPortfolio&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales1982&layout=compact&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesPortfolio&layout=compact&theme=tokyonight"/>
 </div>
 <h2>Languages and Tools:</h2>
 
